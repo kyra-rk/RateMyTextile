@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Rate My Textile Extension",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "textile.html",
+    "default_icon": "rate.png"
+  }
+}
